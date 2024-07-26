@@ -1,7 +1,7 @@
 {
-  "name": "LUCIFER-MD",
+  "name": "BRAVO",
   "version": "10.8.1",
-  "description": "LUCIFER md whatsApp user ",
+  "description": " I HAVE NO LIMITATIONS  ",
   "main": "src/index.js",
   "type": "module",
   "scripts": {
@@ -14,7 +14,7 @@
     "whatsapp-bot",
     "whatsapp md bot"
   ],
-  "author": "Itxtaifur",
+  "author": "BRAVO",
   "license": "ISC",
   "dependencies": {
     "@bochilteam/scraper-images": "^1.0.2",
